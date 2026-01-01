@@ -28,10 +28,15 @@ Each topic includes **one best source (with link)**.
 Topics: OOP, Collections, Streams, Generics, Multithreading, JVM Internals, Exceptions, Serialization, Lambdas
 📌 **Best Source:**
 [https://www.udemy.com/course/java-the-complete-java-developer-course/](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+📌 **Brocode:**
+[https://youtu.be/xk4_1vDrzzo?si=aOxrq-EJaa_QEc1S/](https://youtu.be/xk4_1vDrzzo?si=aOxrq-EJaa_QEc1S/)
+📌 **MOOC:**
+[https://java-programming.mooc.fi/](https://java-programming.mooc.fi/)
 
-## **1.2 C++**
+## **1.2 C++ DSA**
 
-Not required, but useful for DSA.
+📌 **Stivers:**
+[https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
 
 ## **1.3 Design Patterns**
 
@@ -39,33 +44,43 @@ Factory, Strategy, Singleton, Adapter, Decorator, MVC
 📌 **Best Source:**
 [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns)
 
-## **1.4 Data Structures & Algorithms**
+## **1.4 Data Structures & Algorithms in Java**
 
 Trees, Graphs, DP, Binary Search, Hashing
 📌 **Best Source:**
 [https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
-
+📌 **Brocode:**
+[https://youtu.be/CBYHwZcbD-s?si=M8cf2NraNrVBwBO2](https://youtu.be/CBYHwZcbD-s?si=M8cf2NraNrVBwBO2)
 ---
 
 # ⭐ SECTION 2 — DATABASE & SQL (CRITICAL)
+
+## **2.0 DBMS**
+
+📌 **NPTEL:** [https://nptel.ac.in/courses/106104135](https://nptel.ac.in/courses/106104135)
 
 ## **2.1 Oracle SQL**
 
 Joins, Window Functions, Execution Plans
 📌 **Best Source:**
 [https://www.udemy.com/course/oracle-sql-step-by-step/](https://www.udemy.com/course/oracle-sql-step-by-step/)
+📌 **NIC IT:**
+[https://youtu.be/yukL9vRalVo?si=FfB3G8EJd0PGC2bP](https://youtu.be/yukL9vRalVo?si=FfB3G8EJd0PGC2bP)
 
 ## **2.2 PL/SQL**
 
 Procedures, Functions, Packages, Triggers, Cursors
 📌 **Best Source:**
 [https://www.udemy.com/course/oracle-pl-sql/](https://www.udemy.com/course/oracle-pl-sql/)
+📌 **NIC IT:**
+[https://youtu.be/9ic3KEH4Ah4?si=DHk_uJRpXEFPbIA9](https://youtu.be/9ic3KEH4Ah4?si=DHk_uJRpXEFPbIA9)
 
 ## **2.3 SQL Performance & Tuning**
 
 Indexing, AWR/ASH, Materialized Views
 📌 **Best Source:**
 [https://www.udemy.com/course/oracle-sql-tuning-masterclass/](https://www.udemy.com/course/oracle-sql-tuning-masterclass/)
+📌 **freecodecamp:** [https://youtu.be/HvxmF0FUwrM?si=uQ-CuO_kXXyMXYSG](https://youtu.be/HvxmF0FUwrM?si=uQ-CuO_kXXyMXYSG)
 
 ---
 
@@ -73,23 +88,25 @@ Indexing, AWR/ASH, Materialized Views
 
 ## **3.1 Servlets & JSP**
 
-📌 [https://www.javatpoint.com/servlet-tutorial](https://www.javatpoint.com/servlet-tutorial)
+📌 Servelets: [https://www.tutorialspoint.com/servlets/index.htm](https://www.tutorialspoint.com/servlets/index.htm)
+📌 JSP: [https://www.tutorialspoint.com/jsp/index.htm](https://www.tutorialspoint.com/jsp/index.htm)
 
 ## **3.2 JDBC**
 
-📌 [https://www.javatpoint.com/jdbc-tutorial](https://www.javatpoint.com/jdbc-tutorial)
+📌 [https://www.tutorialspoint.com/jdbc/index.htm](https://www.tutorialspoint.com/jdbc/index.htm)
 
 ## **3.3 EJB**
 
 📌 [https://www.tutorialspoint.com/ejb/index.htm](https://www.tutorialspoint.com/ejb/index.htm)
 
-## **3.4 JAX-WS (SOAP)**
+## **3.4 JAX-RS (REST)**
 
-📌 [https://www.javatpoint.com/jax-ws](https://www.javatpoint.com/jax-ws)
+📌 Java-Brains: [https://youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn&si=5URNgid6qysJb-i9](https://youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn&si=5URNgid6qysJb-i9)
+📌 Java-Brains Advanced:[https://youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa&si=spzca98JMX4uhrru](https://youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa&si=spzca98JMX4uhrru)
 
-## **3.5 JAX-RS (REST)**
+## **3.5 JAX-WS (SOAP)**
 
-📌 [https://www.baeldung.com/jax-rs-spec-and-implementations](https://www.baeldung.com/jax-rs-spec-and-implementations)
+📌 Java-Brains SOAP: [https://youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&si=cMkmRHCYdb5xfxFL](https://youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39&si=cMkmRHCYdb5xfxFL)
 
 ---
 
@@ -151,11 +168,21 @@ Part of OFSAA docs above.
 
 ## **7.1 HTML, CSS, JavaScript**
 
-📌 [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+📌freecodecamp: [https://youtu.be/nu_pCVPKzTk?si=ubiSkBcagD7l4ZOs]([https://www.freecodecamp.org/](https://youtu.be/nu_pCVPKzTk?si=ubiSkBcagD7l4ZOs))
 
 ## **7.2 Angular (Used by many OFSS teams)**
 
 📌 [https://angular.io/start](https://angular.io/start)
+📌 freecodecamp: [https://youtu.be/3qBXWUpoPHo?si=ZhR3uEwFfUtW-xNv](https://youtu.be/3qBXWUpoPHo?si=ZhR3uEwFfUtW-xNv)
+
+## **7.3 API**
+📌 freecodecamp: [https://youtu.be/GZvSYJDk-us?si=o_B9qO-tIUC_vuOV](https://youtu.be/GZvSYJDk-us?si=o_B9qO-tIUC_vuOV)
+
+## **7.3 RESTful**
+📌 tutorialspoint: [https://www.tutorialspoint.com/restful/index.htm](https://www.tutorialspoint.com/restful/index.htm)
+
+## **7.4 SOAP**
+📌 tutorialspoint: [https://www.tutorialspoint.com/soap/index.htm](https://www.tutorialspoint.com/soap/index.htm)
 
 ---
 
