@@ -22,12 +22,12 @@ public class ConceptService {
     public Concept save(ConceptDTO dto) {
         Concept c = new Concept();
 
-        c.setTitle(dto.title);
-        c.setDescription(dto.description);
-        c.setMediaUrl(dto.mediaUrl);
-        c.setMemoryObject(dto.memoryObject);
-        c.setLocation(dto.location);
-        c.setVisualCue(dto.visualCue);
+        c.setTitle(dto.getTitle());
+        c.setDescription(dto.getDescription());
+        c.setMediaUrl(dto.getMediaUrl());
+        c.setMemoryObject(dto.getMemoryObject());
+        c.setLocation(dto.getLocation());
+        c.setVisualCue(dto.getVisualCue());
 
         return repo.save(c);
     }
@@ -48,12 +48,12 @@ public class ConceptService {
     public Concept update(Long id, ConceptDTO dto) {
         Concept c = getById(id);
 
-        c.setTitle(dto.title);
-        c.setDescription(dto.description);
-        c.setMediaUrl(dto.mediaUrl);
-        c.setMemoryObject(dto.memoryObject);
-        c.setLocation(dto.location);
-        c.setVisualCue(dto.visualCue);
+        c.setTitle(dto.getTitle());
+        c.setDescription(dto.getDescription());
+        c.setMediaUrl(dto.getMediaUrl());
+        c.setMemoryObject(dto.getMemoryObject());
+        c.setLocation(dto.getLocation());
+        c.setVisualCue(dto.getVisualCue());
 
         return repo.save(c);
     }
